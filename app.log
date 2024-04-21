@@ -1,0 +1,44 @@
+21-Apr-24 09:38:56 - Request received with input matrix 
+    Rows 5 
+    Cols 6 
+    at time 1713672536.2926872
+    Input Matrix : matrix=[[1, 1, 1, 0, 1, 1], [1, 1, 1, 1, 1, 1], [1, 1, 1, 0, 1, 1], [1, 1, 1, 0, 5, 1], [5, 0, 0, 0, 5]]
+21-Apr-24 09:38:56 - Committed to database
+21-Apr-24 09:38:56 - Inserted records
+21-Apr-24 09:38:56 - inserted into DB
+21-Apr-24 11:23:14 - Database connection was successful
+21-Apr-24 11:23:14 - App will run on http://127.0.0.1:8000
+21-Apr-24 13:32:05 - Database connection was successful
+21-Apr-24 13:32:05 - App will run on http://127.0.0.1:8000
+21-Apr-24 13:35:13 - Request received with input matrix 
+    Rows 5 
+    Cols 6 
+    at time 1713686713.679353
+    Input Matrix : matrix=[[1, 1, 1, 0, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 0, 0, 0, 5, -9], [5, 0, 0, 0, 5]]
+21-Apr-24 13:35:13 - Committed to database
+21-Apr-24 13:35:13 - Inserted records
+21-Apr-24 13:35:13 - inserted into DB
+21-Apr-24 13:36:16 - Request received with input matrix 
+    Rows 5 
+    Cols 6 
+    at time 1713686776.708991
+    Input Matrix : matrix=[[1, 1, 1, 0, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 0, 5, -9], [5, 0, 0, 0, 5]]
+21-Apr-24 13:36:16 - Committed to database
+21-Apr-24 13:36:16 - Inserted records
+21-Apr-24 13:36:16 - inserted into DB
+21-Apr-24 13:38:06 - Request received with input matrix 
+    Rows 5 
+    Cols 6 
+    at time 1713686886.6232939
+    Input Matrix : matrix=[[2, 2, 2, 0, 1, -9], [2, 2, 2, 1, 2, -9], [2, 2, 2, 1, 2, -9], [2, 0, 2, 0, 5, -9], [5, 0, 0, 0, 5]]
+21-Apr-24 13:38:06 - Committed to database
+21-Apr-24 13:38:06 - Inserted records
+21-Apr-24 13:38:06 - inserted into DB
+21-Apr-24 13:38:20 - Request received with input matrix 
+    Rows 5 
+    Cols 6 
+    at time 1713686900.257407
+    Input Matrix : matrix=[[2, 2, 2, 2, 1, -9], [2, 2, 2, 2, 2, -9], [2, 2, 2, 2, 2, -9], [2, 0, 2, 0, 5, -9], [5, 0, 0, 0, 5]]
+21-Apr-24 13:38:20 - Committed to database
+21-Apr-24 13:38:20 - Inserted records
+21-Apr-24 13:38:20 - inserted into DB
