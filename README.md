@@ -3,7 +3,7 @@ This project implements a FastAPI application for processing matrices and findin
 
 Setup this project By 
 1. Clone this repo
-`git clone [https://github.com/aryagirigoudar/Infilect_Assignment_SDE.git](https://github.com/aryagirigoudar/Infilect_Assignment_SDE.git)`
+`git clone https://github.com/aryagirigoudar/Infilect_Assignment_SDE.git`
 2. Install Dependencies:
 Navigate to your project directory and install the required dependencies using pip:
 Copy code
