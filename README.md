@@ -19,3 +19,7 @@ Run your FastAPI application  using uvicorn:
 Here, app:app indicates the module and instance of the FastAPI application. --reload enables auto-reloading for development.
 6. Accessing the API:
 Once the application is running, you can access the API at http://localhost:8000 by default. You can make POST requests to http://localhost:8000/execute/ to process matrices.
+
+For Database table Structure
+I have included .sql file download and install pgAdmin 
+and import using sql file 
